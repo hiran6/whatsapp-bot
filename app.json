@@ -18,7 +18,7 @@
         "HANDLERS": {
             "description": "enter prefix. Example . or ^[.,!/] for using multiple prefix like .,!/ or LyFE. Using keyword like LyFE will broke list and help command",
             "required": true,
-            "value": "."
+            "value": "null"
         },
         "SEND_READ": {
             "description": "send read receipt.",
